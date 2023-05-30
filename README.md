@@ -17,6 +17,7 @@ Using these features in combination with the collaborative filtering technique h
 Overall, these features' combination helped in better capturing the user's preferences, the business's characteristics, and the reviews' sentiment, thus improving the prediction.
 
 Error Distribution based on Rating:<br />
+<br />
 Between 0 and 1: 102633,<br />
 Between 1 and 2: 32447,<br />
 Between 2 and 3: 6114,<br />
