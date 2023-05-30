@@ -15,7 +15,7 @@ For business-related features, the following features are considered: review_cou
 For review-related features, the following features are considered: stars, useful, funny, and cool.<br /><br />
 Using these features in combination with the collaborative filtering technique helped in improving the RMSE of the prediction model. Additionally, hyperparameter tuning using Optuna with 5-fold cross-validation was used to fine-tune the XGBoost model's hyperparameters to obtain better results.<br /><br />
 Overall, these features' combination helped in better capturing the user's preferences, the business's characteristics, and the reviews' sentiment, thus improving the prediction.
-
+<br /><br /><br />
 Error Distribution based on Rating:<br />
 <br />
 Between 0 and 1: 102633,<br />
@@ -23,11 +23,9 @@ Between 1 and 2: 32447,<br />
 Between 2 and 3: 6114,<br />
 Between 3 and 4: 849,<br />
 Greater than 4: 1
-
+<br /><br />
 RMSE: <br />
-<br />
 0.9763456442333556
-
+<br /><br />
 Execution Time:<br />
-<br />
 1066.1266582012177s
