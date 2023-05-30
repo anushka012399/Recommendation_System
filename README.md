@@ -16,11 +16,11 @@ For review-related features, the following features are considered: stars, usefu
 Using these features in combination with the collaborative filtering technique helped in improving the RMSE of the prediction model. Additionally, hyperparameter tuning using Optuna with 5-fold cross-validation was used to fine-tune the XGBoost model's hyperparameters to obtain better results.
 Overall, these features' combination helped in better capturing the user's preferences, the business's characteristics, and the reviews' sentiment, thus improving the prediction.
 
-Error Distribution based on Rating:
-Between 0 and 1: 102633,
-Between 1 and 2: 32447,
-Between 2 and 3: 6114,
-Between 3 and 4: 849,
+Error Distribution based on Rating:<br />
+Between 0 and 1: 102633,<br />
+Between 1 and 2: 32447,<br />
+Between 2 and 3: 6114,<br />
+Between 3 and 4: 849,<br />
 Greater than 4: 1
 
 RMSE: 
