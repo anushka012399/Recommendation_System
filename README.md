@@ -24,8 +24,10 @@ Between 2 and 3: 6114,<br />
 Between 3 and 4: 849,<br />
 Greater than 4: 1
 
-RMSE: 
+RMSE: <br />
+<br />
 0.9763456442333556
 
-Execution Time:
+Execution Time:<br />
+<br />
 1066.1266582012177s
